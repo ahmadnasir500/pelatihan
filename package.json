@@ -1,0 +1,24 @@
+{
+  "name": "hapi01",
+  "version": "1.0.0",
+  "main": "notesPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadnasir500/pelatihan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadnasir500/pelatihan/issues"
+  },
+  "homepage": "https://github.com/ahmadnasir500/pelatihan#readme",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.3",
+    "nanoid": "^5.1.5"
+  }
+}
